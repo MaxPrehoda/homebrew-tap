@@ -1,6 +1,6 @@
 cask "cadence" do
-  version "0.9.0"
-  sha256 "5f60fbcb05915899713d77ca5f5d48da4d67629f7ec0bc98ad2f5d6a997f89d5"
+  version "0.10.0"
+  sha256 "c7a068807e15ecb1707cab6316f038a6de150b7a73d2b8a737dc7df4a4bcbafb"
 
   url "https://github.com/MaxPrehoda/cadence-landing/releases/download/v#{version}/Cadence_#{version}_aarch64.dmg"
   name "Cadence"
